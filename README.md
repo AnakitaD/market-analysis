@@ -44,28 +44,18 @@
 ```text
 ├── assets/                 # Dashboard screenshots, ERDs, and charts
 ├── data/                   # Sample datasets or data dictionary (avoid uploading massive raw files)
-├── sql/                    # Data cleaning, staging, and analytical queries
-│   ├── 01_data_cleaning.sql
-│   └── 02_kpi_analysis.sql
 ├── powerbi/                # .pbix dashboard file (or link to live interactive report)
 └── README.md               # Project documentation
 ```
 
 ---
 
-## 🚀 How to Reproduce / Explore
-1. **View the Dashboard:** [Link to live Power BI Service, Streamlit app, or interactive visual]
-2. **Database Setup:** Run `sql/01_data_cleaning.sql` in your Snowflake/SQL environment to build the staging tables.
-3. **Run Analysis:** Execute `sql/02_kpi_analysis.sql` to reproduce the summary metrics shown above.
-
----
-
 ## ⚠️ Limitations & Next Steps
-* **Data Limitations:** [e.g., Historical marketing attribution data was unavailable prior to 2024.]
+* **Data Limitations:** Data Limited to only 6 months of 2019; No customer data on any potential memberships; No data for online orders to cross-reference sales volume
 * **Future Work:** [e.g., Build a logistic regression model in Python to score individual customer churn risk.]
 
 ---
 
 ## 👤 Author
-**[Your Name]**  
-[LinkedIn Profile URL] | [Portfolio Website URL] | [Email Address]
+**Anakita Desir**  
+www.linkedin.com/in/anakita-desir/ | https://app.powerbi.com/view?r=eyJrIjoiNGE0ZDU2NDItNzU4YS00YjcyLThlNjEtMTY5ODRmY2Y4MGY3IiwidCI6ImY4NDlkN2Q5LWM5NzgtNGEyZS05OGVlLTMxOWJmZTgxYmNjMSJ9) | anakita2@gmail.com
