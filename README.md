@@ -1,10 +1,10 @@
-# [Project Title: e.g., Retail Customer Churn & Retention Analysis]
+# Market Analysis for Tech Products in the Chicago Area
 
 ![Project Banner or Dashboard Preview](assets/dashboard_preview.png)
 
 ## 📌 Executive Summary
 [Provide a 2–3 sentence overview of the project. State the business problem, the data analyzed, the tools used, and the high-level outcome.]  
-*Example: This project analyzes 50,000+ customer transaction records to identify key drivers of quarterly churn for a mid-sized e-commerce retailer. Using Snowflake for data warehousing, SQL for transformation, and Power BI for visualization, the analysis uncovered a 22% churn spike among single-purchase customers and proposed targeted onboarding campaigns projected to save \$140K annually.*
+*This project is a market analysis for 26 software products sold in the Chicago Area. The goal is to identify the key demographics driving sales and the best-selling products. Using Power Query for data cleaning/transformation, PowerPivot for data modeling, and Power BI for visualization. The analysis uncovered an upward sales trend of 117% from March 2019 through June 2019 which is attributed to an increase in funds from tax refunds.*
 
 ---
 
@@ -18,13 +18,13 @@
 ---
 
 ## 🛠️ Tech Stack & Architecture
-* **Data Warehouse / Storage:** [Microsoft Excel .xlsx files]
-* **Data Transformation & Modeling:** [Power Query]
-* **Exploratory Analysis:** [Power Query]
-* **Data Visualization:** [Power BI]
+* **Data Warehouse / Storage:** Microsoft Excel .xlsx files
+* **Data Transformation & Exploratory Analysis:** Power Query
+* **Data Visualization:** Power BI
+* **Data Modeling:** PowerBI (Star Schema - see below)
 
-* **Star Schema utilized**
-!<img width="1050" height="705" alt="image" src="https://github.com/user-attachments/assets/2c9f6e8e-850a-4da7-8e1a-7f587e18b874" />
+
+<img width="1050" height="705" alt="image" src="https://github.com/user-attachments/assets/2c9f6e8e-850a-4da7-8e1a-7f587e18b874" />
 
 ---
 
